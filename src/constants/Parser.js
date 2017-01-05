@@ -1,0 +1,2 @@
+export const FILE_START_PARSE = 'FILE_START_PARSE'
+export const FILE_PARSED = 'FILE_PARSED'
