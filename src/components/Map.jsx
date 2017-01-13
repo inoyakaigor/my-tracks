@@ -78,7 +78,7 @@ export default class Map extends Component {
               );
             })*/}
             <KmlLayer
-          url="http://localhost/kml.kml"/>
+          url="https://inoyakaigor.ru/kml.kml"/>
       </GoogleMap>
     );
   }
